@@ -7,8 +7,8 @@ To run it, either download repository and run `index.html` or **play it online**
 
 ## Authors
 
-* [adikus](https://github.com/adikus)
-* [NiklasZ](https://github.com/NiklasZ)
-* [kstanski](https://github.com/kstanski)
-* [AndreeaLutac](https://github.com/AndreeaLutac)
+* [Andrej Hoos](https://github.com/adikus)
+* [Niklas Zwingenberger](https://github.com/NiklasZ)
+* [Kajetan Stanski](https://github.com/kstanski)
+* [Andreea Lutac](https://github.com/Andreea-L)
 
