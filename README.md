@@ -6,9 +6,8 @@ This is a guitar-hero style webgame made for the [GUTS Hackathon](https://gutech
 To run it, either download repository and run `index.html` or **play it online** [here](http://adikus.github.io/HoboSort/)
 
 ## Authors
-
+* [Andreea Lutac](https://github.com/Andreea-L)
 * [Andrej Hoos](https://github.com/adikus)
 * [Niklas Zwingenberger](https://github.com/NiklasZ)
 * [Kajetan Stanski](https://github.com/kstanski)
-* [Andreea Lutac](https://github.com/Andreea-L)
 
